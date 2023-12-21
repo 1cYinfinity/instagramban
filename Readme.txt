@@ -15,7 +15,7 @@ Victory Announcement: Upon successful execution, the script announces the banish
 
 Usage
 Cloning the Repository
-	git clone https://github.com/your_username/instagramban.git
+	git clone https://github.com/1cYinfinity/instagramban.git
         cd instagramban
 
 Installing Dependencies
